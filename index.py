@@ -7,6 +7,8 @@ elif name == "Pipi Novello":
     print("Guason")
 elif name == "Lope":
     print("Flauta Manager")
+elif name == "Fava":
+    print("Mono con navaja")
 
 else:
     print("Hello " + name + " ,nice to see you!")
